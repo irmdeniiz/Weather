@@ -1,4 +1,4 @@
-<h1> Crud</h1>
+<h1> Weather</h1>
 
 <h2> In this project; html, css and js were used </h2>
 
